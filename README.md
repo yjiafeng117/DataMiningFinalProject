@@ -5,7 +5,7 @@ Advanced Data Mining & Web Analytics Final project
 Build time series models for New York Stock Exchange to predict tomorrow’s stock price in a continuous format, and plot a trendline for future understanding. 
 Also, extract business insights from different modeling predictions.
 
-## Data
+## Data 
 
 Dataset used for this project is from a Kaggle competition named “New York Stock Exchange”: 
 - fundamentals.csv: presents each company’s yearly financial data
